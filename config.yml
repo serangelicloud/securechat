@@ -1,0 +1,28 @@
+trip_password: ''
+websocket_address: wss://hack.chat/chat-ws
+no_parse: false
+clear: false
+is_mod: false
+no_unicode: false
+no_notify: false
+prompt_string: default
+suggest_aggr: 1
+proxy: false
+message_color: white
+whisper_color: green
+emote_color: green
+nickname_color: blue
+self_nickname_color: magenta
+warning_color: yellow
+server_color: green
+client_color: green
+timestamp_color: white
+mod_nickname_color: cyan
+admin_nickname_color: red
+aliases:
+  example: example
+ignored:
+  trips:
+  - example
+  hashes:
+  - example
